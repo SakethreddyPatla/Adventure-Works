@@ -1,4 +1,4 @@
-# Adventure-Works
+# Global Retail Operations & Supply Chain Analytics
 An end-to-end Power BI analytics solution that transforms 269,720 global transactions  into actionable business intelligence for Maven Market. 
 
 #### Project Overview
